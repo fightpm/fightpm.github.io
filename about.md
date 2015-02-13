@@ -9,4 +9,4 @@ Fight!PMは、ソフトウェア開発プロジェクトを成功させるため
 
 ### Contact me
 
-[email@domain.com](mailto:info@fightpm.com)
+[info@fightpm.com](mailto:info@fightpm.com)
