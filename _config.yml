@@ -53,8 +53,6 @@ markdown: redcarpet
 redcarpet: 
     extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", 
                  "tables", "with_toc_data"] 
-$ sudo apt-get install ruby1.9.1
-$ sudo gem install jekyll redcarpet                 
 highlighter: pygments
 permalink: /:title/
 
