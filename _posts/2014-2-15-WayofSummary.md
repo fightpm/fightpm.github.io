@@ -21,11 +21,11 @@ Excelなどのスプレッドシートを使って、アクティビティの種
 <table border=1>
   <tr>
     <th>記録時間</th>
-    <th>開始</th>
-    <th>終了</th>
-    <th>コメント</th>
-    <th>規模(頁数)</th>
-    <th>生産性(所要時間/頁)</th>
+    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;開&nbsp;&nbsp;始&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;終&nbsp;&nbsp;了&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;コメント&nbsp;</th>
+    <th>&nbsp;規模(頁数)&nbsp;</th>
+    <th>&nbsp;生産性(所要時間/頁)</th>
   </tr>
   <tr>
     <td>0:26</td>
