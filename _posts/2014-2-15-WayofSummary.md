@@ -20,51 +20,51 @@ Excelなどのスプレッドシートを使って、アクティビティの種
 
 <table>
   <tr>
-    <th>記録時間</th>
-    <th>開始　　　　　　　</th>
-    <th>終了　　　　　　　</th>
-    <th>コメント　</th>
-    <th>規模(頁数)</th>
-    <th>生産性(所要時間/頁)</th>
+    <th align="center">記録時間</th>
+    <th align="center">開始　　　　　　　</th>
+    <th align="center">終了　　　　　　　</th>
+    <th align="center">コメント　</th>
+    <th align="center">規模(頁数)</th>
+    <th align="center">生産性(所要時間/頁)</th>
   </tr>
   <tr>
-    <td>0:26</td>
-    <td>2015/2/7 16:17</td>
-    <td>2015/2/7 16:43</td>
-    <td>第８章</td>
-    <td>9</td>
-    <td>0:02:53</td>
+    <td align="center">0:26</td>
+    <td align="center">2015/2/7 16:17</td>
+    <td align="center">2015/2/7 16:43</td>
+    <td align="center">第８章</td>
+    <td align="center">9</td>
+    <td align="center">0:02:53</td>
   </tr>
   <tr>
-    <td>0:31</td>
-    <td>2015/2/1 16:52</td>
-    <td>2015/2/1 17:23</td>
-    <td>第７章</td>
-    <td>13</td>
-    <td>0:02:23</td>
+    <td align="center">0:31</td>
+    <td align="center">2015/2/1 16:52</td>
+    <td align="center">2015/2/1 17:23</td>
+    <td align="center">第７章</td>
+    <td align="center">13</td>
+    <td align="center">0:02:23</td>
   </tr>
   <tr>
-    <td>0:34</td>
-    <td>2015/2/1 15:44</td>
-    <td>2015/2/1 16:19</td>
-    <td>第６章</td>
-    <td>14</td>
-    <td>0:02:26</td>
+    <td align="center">0:34</td>
+    <td align="center">2015/2/1 15:44</td>
+    <td align="center">2015/2/1 16:19</td>
+    <td align="center">第６章</td>
+    <td align="center">14</td>
+    <td align="center">0:02:26</td>
   </tr>
   <tr>
-    <td>0:33</td>
-    <td>2015/2/1 10:39</td>
-    <td>2015/2/1 11:12</td>
-    <td>第５章</td>
-    <td>11</td>
-    <td>0:03:00</td>
+    <td align="center">0:33</td>
+    <td align="center">2015/2/1 10:39</td>
+    <td align="center">2015/2/1 11:12</td>
+    <td align="center">第５章</td>
+    <td align="center">11</td>
+    <td align="center">0:03:00</td>
   </tr>
   <tr>
-    <td>0:27</td>
-    <td>2015/1/25 0:20</td>
-    <td>2015/1/25 0:47</td>
-    <td>第４章</td>
-    <td>11</td>
-    <td>0:02:27</td>
+    <td align="center">0:27</td>
+    <td align="center">2015/1/25 0:20</td>
+    <td align="center">2015/1/25 0:47</td>
+    <td align="center">第４章</td>
+    <td align="center">11</td>
+    <td align="center">0:02:27</td>
   </tr>
 </table>
