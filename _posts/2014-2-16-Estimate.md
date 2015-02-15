@@ -18,7 +18,7 @@ title: 作業時間の見積もり
 
 **例　if文ひとつの関数**  
 今回作成するプログラムは、f文ひとつの関数で、処理内容は普通であるが、条件式が複雑(論理式を必要とする)になります。
-過去の計測データは tools repository](https://github.com/fightpm/tools) の summary sample.xlsm を使います。  
+過去の計測データは [tools repository](https://github.com/fightpm/tools) の summary sample.xlsm を使います。  
 
 1)規模  
 過去の計測データは  
