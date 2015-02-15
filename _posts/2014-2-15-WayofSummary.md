@@ -18,4 +18,4 @@ Excelなどのスプレッドシートを使って、アクティビティの種
 規模の尺度はドキュメントならページ数、プログラムならLOC(行数)というように、作業時間に直接関わるものにします。  
 生産性は記録時間を規模で割ったものです。単位規模あたりの作業時間ということになります。
 
-要約の例を示します。t[tools repository](https://github.com/fightpm/tools) からsummary sample.xlsm をダウンロードしてください。
+要約の例を示します。[tools repository](https://github.com/fightpm/tools) からsummary sample.xlsm をダウンロードしてください。
